@@ -1,0 +1,1 @@
+Este projeto é um cronômetro básico em JavaScript com funcionalidades intuitivas. Ele permite ao usuário definir um tempo de contagem regressiva e inclui as funções de iniciar, pausar, retomar, reiniciar e parar a contagem.
